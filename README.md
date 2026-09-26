@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi 👋, I'm Sagala Venkata Krishna
 
-<!--
-**venkatakrishnasagala-cell/venkatakrishnasagala-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student | Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+[Your profile photo]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+├── B.Tech CSE
+├── Vel Tech
+├── CGPA 9.0
+├── Chennai, India
+└── Graduation: 2028
+
+TECH STACK
+Java • Python • C • SQL
+HTML • CSS • React
+Spring Boot • Node.js
+Machine Learning • OpenCV
+RAG • LLMs
+MySQL • Git • GitHub
+
+CURRENTLY BUILDING
+→ AI Face Recognition Attendance System
+→ AI Resume Analyzer
+→ AI Voice Assistant
+
+🐍 Watch My Contributions Eat!
+
+[YOUR LIVE CONTRIBUTION SNAKE]
+
+Featured Projects
+→ Face Recognition Attendance
+→ MAXX Voice Assistant
+→ AI Resume Analyzer
+
+Connect With Me
+→ LinkedIn
+→ Email
+→ GitHub

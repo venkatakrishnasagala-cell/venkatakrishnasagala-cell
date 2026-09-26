@@ -26,7 +26,12 @@ CURRENTLY BUILDING
 
 🐍 Watch My Contributions Eat!
 
-[YOUR LIVE CONTRIBUTION SNAKE]
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/venkatakrishnasagala-cell/venkatakrishnasagala-cell/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
 
 Featured Projects
 → Face Recognition Attendance

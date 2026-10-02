@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SAGALA%20VENKATA%20KRISHNA&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20FULL-STACK%20%7C%20SOFTWARE%20DEVELOPER&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
@@ -11,15 +12,15 @@
 <br/>
 
 <a href="https://github.com/venkatakrishnasagala-cell">
-<img src="https://komarev.com/ghpvc/?username=venkatakrishnasagala-cell&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=venkatakrishnasagala-cell&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 
 <a href="https://github.com/venkatakrishnasagala-cell?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <a href="https://venkatakrishnasagala-cell.github.io/Sagala-Venkata-Krishna-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -50,7 +51,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/venkata-krishna-sagala-9899573a2">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </td>
@@ -93,19 +94,19 @@ To become a strong **software engineer and AI/ML developer** by continuously bui
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js&perline=4"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js&perline=4" alt="Programming languages"/>
 
 ### 🌐 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring&perline=5" alt="Frontend and backend technologies"/>
 
 ### 🤖 AI / ML & Data
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=3"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=3" alt="AI and machine learning technologies"/>
 
 ### 🗄️ Database & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4" alt="Database and developer tools"/>
 
 </div>
 
@@ -226,7 +227,7 @@ Currently exploring intelligent applications using:
 <div align="center">
 
 <a href="https://github.com/venkatakrishnasagala-cell?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
 
 </div>
@@ -242,9 +243,9 @@ Currently exploring intelligent applications using:
 
 <td width="50%" align="center">
 
-### 🥉 3rd Prize — Codeathon
+### 🥈 2nd Prize — Codeathon Contest
 
-🏆 Secured **3rd Prize** in a Codeathon competition.
+🏆 Secured **2nd Prize** in a Codeathon Contest.
 
 💻 Demonstrated programming, logical thinking and problem-solving skills through coding challenges.
 
@@ -380,6 +381,6 @@ I'm always open to connecting with **developers, students, AI enthusiasts, build
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
